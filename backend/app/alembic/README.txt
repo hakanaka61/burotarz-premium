@@ -1,0 +1,1 @@
+Alembic migrations should be initialized here. Run alembic init and create migrations.
